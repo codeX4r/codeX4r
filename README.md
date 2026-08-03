@@ -1,24 +1,9 @@
 
-<h1 align="center">Hi there, I'm codeX4r 👋</h1>
+<h1 align="center">Hi there, I'm Parth Pandey👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;Building+REST+APIs+with+Node+%26+Express;Learning+DSA+in+Java;Exploring+System+Design+%26+Generative+AI" alt="Typing SVG" />
 </p>
-
-
-
----
-
-### 🔭 About Me
-
-- 💼 Working on **MERN stack** projects and **REST APIs**
-- 🤝 Open to collaborating on **backend** & beginner-friendly **open-source** projects
-- 🧭 Looking for guidance on **system design basics** and real-world backend practices
-- 🌱 Currently learning **DSA (Java)** and **Backend Engineering**
-- 💬 Ask me about **Java · JavaScript · REST APIs · Authentication**
-- ⚡ Fun fact: keen to explore **Generative AI**
-
----
 
 ### 🛠️ Tech Stack
 
