@@ -2,13 +2,10 @@
 <h1 align="center">Hi there, I'm codeX4r 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Backend+%2F+MERN+Stack+Developer;Building+REST+APIs+with+Node+%26+Express;Learning+DSA+in+Java;Exploring+System+Design+%26+Generative+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;Building+REST+APIs+with+Node+%26+Express;Learning+DSA+in+Java;Exploring+System+Design+%26+Generative+AI" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codeX4r&style=flat-square&color=61dafb" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/codeX4r?style=flat-square&color=61dafb&label=Followers" alt="followers" />
-</p>
+
 
 ---
 
@@ -87,5 +84,3 @@
 </p>
 
 ---
-
-<p align="center"><i>Proudly built with ❤️ — GPRM (<a href="https://gprm.itsvg.in">gprm.itsvg.in</a>)</i></p>
