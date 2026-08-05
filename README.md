@@ -1,29 +1,31 @@
 <h1 align="center">Parth Ranjan Pandey</h1>
 
 <p align="center">
-Full Stack Developer (MERN)
+Full Stack Developer (MERN) | Backend Engineering | AI-Powered Web Apps
 </p>
 
 <p align="center">
-Building scalable web applications with a focus on backend engineering and AI-powered solutions.
+<a href="https://github.com/codeX4r">GitHub</a> •
+<a href="https://linkedin.com/in/parthranjanpandey">LinkedIn</a> •
+<a href="mailto:pandeyparth406@gmail.com">Email</a>
 </p>
 
 ---
 
 ## About
 
-I'm a Computer Science undergraduate focused on designing and building full-stack web applications using the MERN stack.
+Computer Science undergraduate building full-stack applications with the MERN stack.
 
-I enjoy solving practical problems through clean architecture, secure backend systems, and intuitive user experiences. My current work centers around integrating Generative AI into real-world applications while strengthening my understanding of backend engineering, system design, and core computer science fundamentals.
+My work focuses on clean backend architecture, secure authentication, REST APIs, and practical AI integration. I care more about solving real problems than collecting shiny badges.
 
 ---
 
 ## Current Focus
 
-- 🚀 Building an AI Resume Analyzer
-- ⚙️ Backend Engineering
-- 🧠 System Design
-- 💻 Data Structures & Algorithms (Java)
+- AI Resume Analyzer
+- Backend Engineering
+- System Design
+- DSA in Java
 
 ---
 
@@ -33,7 +35,7 @@ I enjoy solving practical problems through clean architecture, secure backend sy
 |----------|--------------|
 | **Languages** | Java • JavaScript • Python |
 | **Frontend** | React • Redux Toolkit • Tailwind CSS |
-| **Backend** | Node.js • Express.js • REST APIs • JWT Authentication |
+| **Backend** | Node.js • Express.js • REST APIs • JWT |
 | **Database** | MongoDB • MySQL |
 | **AI** | Gemini API |
 | **Tools** | Git • GitHub • Postman • VS Code |
@@ -42,50 +44,20 @@ I enjoy solving practical problems through clean architecture, secure backend sy
 
 ## Featured Projects
 
-### AI Resume Analyzer *(In Progress)*
+### AI Resume Analyzer
+A full-stack application that analyzes resumes against job descriptions using Generative AI, identifies skill gaps, and generates personalized learning roadmaps.
 
-A full-stack application that analyzes resumes against job descriptions using Generative AI, identifies skill gaps, generates personalized learning roadmaps, and supports interview preparation.
-
-**Stack**
-
-React • Node.js • Express.js • MongoDB • Redux Toolkit • Tailwind CSS • JWT • Gemini API
-
----
+**Stack:** React • Node.js • Express.js • MongoDB • Redux Toolkit • Tailwind CSS • JWT • Gemini API
 
 ### Movie Collection Prediction
+Machine learning project for predicting box office collections using Decision Tree Regression and XGBoost with feature engineering, pruning, hyperparameter tuning, and cross-validation.
 
-Machine learning project comparing Decision Tree Regression and XGBoost for box office prediction using feature engineering, pruning, hyperparameter tuning, and cross-validation.
-
-**Stack**
-
-Python • Scikit-learn • XGBoost • Pandas • NumPy
-
----
-
-## Currently Learning
-
-- Distributed Systems
-- Backend Scalability
-- Authentication & Security
-- System Design
-- Advanced DSA
-
----
-
-## GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=codeX4r&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeX4r&layout=compact&hide_border=true&theme=transparent"/>
-
-</p>
+**Stack:** Python • Scikit-learn • XGBoost • Pandas • NumPy
 
 ---
 
 ## Connect
 
-- LinkedIn → https://linkedin.com/in/parthranjanpandey
-- Portfolio → *(Coming Soon)*
-- Email → pandeyparth406@gmail.com
+- LinkedIn: https://linkedin.com/in/parthranjanpandey
+- Portfolio: Coming soon
+- Email: pandeyparth406@gmail.com
