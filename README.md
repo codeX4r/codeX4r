@@ -1,51 +1,91 @@
-
-<h1 align="center">Hi there, I'm Parth Pandey👋</h1>
+<h1 align="center">Parth Ranjan Pandey</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;Building+REST+APIs+with+Node+%26+Express;Learning+DSA+in+Java;Exploring+System+Design+%26+Generative+AI" alt="Typing SVG" />
+Full Stack Developer (MERN)
 </p>
 
-### 🛠️ Tech Stack
-
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
-
-**Backend & APIs**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nodemon-323330?style=flat-square&logo=nodemon&logoColor=BBDEAD" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-</p>
-
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chart.js-F5788D?style=flat-square&logo=chart.js&logoColor=white" />
-</p>
-
-**Databases**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
-**Data & Tools**
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=flat-square&logo=matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+<p align="center">
+Building scalable web applications with a focus on backend engineering and AI-powered solutions.
 </p>
 
 ---
 
+## About
+
+I'm a Computer Science undergraduate focused on designing and building full-stack web applications using the MERN stack.
+
+I enjoy solving practical problems through clean architecture, secure backend systems, and intuitive user experiences. My current work centers around integrating Generative AI into real-world applications while strengthening my understanding of backend engineering, system design, and core computer science fundamentals.
+
+---
+
+## Current Focus
+
+- 🚀 Building an AI Resume Analyzer
+- ⚙️ Backend Engineering
+- 🧠 System Design
+- 💻 Data Structures & Algorithms (Java)
+
+---
+
+## Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Java • JavaScript • Python |
+| **Frontend** | React • Redux Toolkit • Tailwind CSS |
+| **Backend** | Node.js • Express.js • REST APIs • JWT Authentication |
+| **Database** | MongoDB • MySQL |
+| **AI** | Gemini API |
+| **Tools** | Git • GitHub • Postman • VS Code |
+
+---
+
+## Featured Projects
+
+### AI Resume Analyzer *(In Progress)*
+
+A full-stack application that analyzes resumes against job descriptions using Generative AI, identifies skill gaps, generates personalized learning roadmaps, and supports interview preparation.
+
+**Stack**
+
+React • Node.js • Express.js • MongoDB • Redux Toolkit • Tailwind CSS • JWT • Gemini API
+
+---
+
+### Movie Collection Prediction
+
+Machine learning project comparing Decision Tree Regression and XGBoost for box office prediction using feature engineering, pruning, hyperparameter tuning, and cross-validation.
+
+**Stack**
+
+Python • Scikit-learn • XGBoost • Pandas • NumPy
+
+---
+
+## Currently Learning
+
+- Distributed Systems
+- Backend Scalability
+- Authentication & Security
+- System Design
+- Advanced DSA
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=codeX4r&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeX4r&layout=compact&hide_border=true&theme=transparent"/>
+
+</p>
+
+---
+
+## Connect
+
+- LinkedIn → https://linkedin.com/in/parthranjanpandey
+- Portfolio → *(Coming Soon)*
+- Email → pandeyparth406@gmail.com
