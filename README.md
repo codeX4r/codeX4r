@@ -4,12 +4,6 @@
 Full Stack Developer (MERN) | Backend Engineering | AI-Powered Web Apps
 </p>
 
-<p align="center">
-<a href="https://github.com/codeX4r">GitHub</a> •
-<a href="https://linkedin.com/in/parthranjanpandey">LinkedIn</a> •
-<a href="mailto:pandeyparth406@gmail.com">Email</a>
-</p>
-
 ---
 
 ## About
@@ -55,6 +49,15 @@ Machine learning project for predicting box office collections using Decision Tr
 **Stack:** Python • Scikit-learn • XGBoost • Pandas • NumPy
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codeX4r&show_icons=true&theme=tokyonight" height="170" />
+
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=codeX4r&theme=tokyonight" height="170" />
+</p>
 
 ## Connect
 
