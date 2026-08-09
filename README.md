@@ -50,10 +50,6 @@ Machine learning project for predicting box office collections using Decision Tr
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codeX4r&show_icons=true&theme=tokyonight" height="170" />
-
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=codeX4r&theme=tokyonight" height="170" />
