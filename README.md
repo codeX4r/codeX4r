@@ -14,14 +14,7 @@ My work focuses on clean backend architecture, secure authentication, REST APIs,
 
 ---
 
-## Current Focus
 
-- AI Resume Analyzer
-- Backend Engineering
-- System Design
-- DSA in Java
-
----
 
 ## Tech Stack
 
