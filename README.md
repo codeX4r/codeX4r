@@ -1,4 +1,4 @@
-<h1 align="center">Parth Ranjan Pandey</h1>
+ <h1 align="center">Parth Ranjan Pandey</h1>
 
 <p align="center">
 Full Stack Developer (MERN) | Backend Engineering | AI-Powered Web Apps
