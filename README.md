@@ -20,7 +20,7 @@ My work focuses on clean backend architecture, secure authentication, REST APIs,
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | Java • JavaScript • Python |
+| **Languages** |  JavaScript • Python |
 | **Frontend** | React • Redux Toolkit • Tailwind CSS |
 | **Backend** | Node.js • Express.js • REST APIs • JWT |
 | **Database** | MongoDB • MySQL |
