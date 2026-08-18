@@ -24,7 +24,6 @@ My work focuses on clean backend architecture, secure authentication, REST APIs,
 | **Frontend** | React • Redux Toolkit • Tailwind CSS |
 | **Backend** | Node.js • Express.js • REST APIs • JWT |
 | **Database** | MongoDB • MySQL |
-| **AI** | Gemini API |
 | **Tools** | Git • GitHub • Postman • VS Code |
 
 ---
