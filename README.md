@@ -36,11 +36,6 @@ A full-stack application that analyzes resumes against job descriptions using Ge
 
 **Stack:** React • Node.js • Express.js • MongoDB • Redux Toolkit • Tailwind CSS • JWT • Gemini API
 
-### Movie Collection Prediction
-Machine learning project for predicting box office collections using Decision Tree Regression and XGBoost with feature engineering, pruning, hyperparameter tuning, and cross-validation.
-
-**Stack:** Python • Scikit-learn • XGBoost • Pandas • NumPy
-
 ---
 
 
@@ -51,5 +46,4 @@ Machine learning project for predicting box office collections using Decision Tr
 ## Connect
 
 - LinkedIn: https://linkedin.com/in/parthranjanpandey
-- Portfolio: Coming soon
 - Email: pandeyparth406@gmail.com
